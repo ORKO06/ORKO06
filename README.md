@@ -12,9 +12,9 @@
 
 
 - 🔭 I’m currently working on learning new skills and  improving my previous skills
-- 🌱 I’m currently learning Python,Django
+- 🌱 I’m currently learning Python,Django,Kotlin
 - 👯 I’m looking to collaborate on GitHub
-- 🤔 I’m looking for help with web development and startup ideas
+- 🤔 I’m looking for help with web development,App development and startup ideas
 - 💬 Ask me about Programming.
 - 📫 How to reach me: <a style="color:#02ccff" href="mailto:41hemu38@gmail.com">41hemu38@gmail.com</a>
 - ⚡ Fun fact: I love to do mental calculation and playing cricket.
