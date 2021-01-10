@@ -12,7 +12,7 @@
 
 
 - 🔭 I’m currently working on learning new skills and  improving my previous skills
-- 🌱 I’m currently learning Python,Django,Kotlin
+- 🌱 I’m currently learning Python,Django and Kotlin
 - 👯 I’m looking to collaborate on GitHub
 - 🤔 I’m looking for help with web development,App development and startup ideas
 - 💬 Ask me about Programming.
