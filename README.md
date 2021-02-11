@@ -17,7 +17,7 @@
 - 🤔 I’m looking for help with web development,App development and startup ideas
 - 💬 Ask me about Programming.
 - 📫 How to reach me: <a style="color:#02ccff" href="mailto:41hemu38@gmail.com">41hemu38@gmail.com</a>
-- ⚡ Fun fact: I love to do mental calculation and playing cricket.
+- ⚡ Fun fact: I love to play cricket.
 <img src="https://github-readme-stats.vercel.app/api?username=ORKO06&show_icons=true&count_private=true&theme=radical ">
 
 
