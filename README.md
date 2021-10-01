@@ -1,14 +1,14 @@
 #### Hola,Its Hemant here
          
+<p align="left >
 <a href="https://instagram.com/hemant_bajaj_/">
-  <img align="left" alt="Hemant's Instagram" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
-</a>
-<a href="https://www.linkedin.com/in/hemant-bajaj-011002202/">
-  <img align="left" alt="Hemant's Linkdein" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hemant_bajaj_" height="30" width="40" />
 </a>
 
-<br/>
-<br/>
+<a href="https://www.linkedin.com/in/hemant-bajaj-011002202" target="blank">
+         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemant-bajaj-011002202" height="30" width="40" />
+</a>
+</p>
 
 
 - 🔭 I’m currently working on learning new skills and  improving my previous skills
