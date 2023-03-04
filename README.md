@@ -17,7 +17,11 @@
 - 💬 Ask me about Programming.
 - 📫 How to reach me: <a style="color:#02ccff" href="mailto:41hemu38@gmail.com">41hemu38@gmail.com</a>
 - ⚡ Fun fact: I love to play cricket.
-<img src="https://github-readme-stats.vercel.app/api?username=ORKO06&show_icons=true&count_private=true&theme=radical ">
+
+<p align="center"> 
+  Visitors count:<br>
+  <img src="https://profile-counter.glitch.me/ORKO06/count.svg" />
+</p>
 
 
 
