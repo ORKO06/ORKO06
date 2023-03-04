@@ -23,5 +23,6 @@
   <img src="https://profile-counter.glitch.me/ORKO06/count.svg" />
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Orko06&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
